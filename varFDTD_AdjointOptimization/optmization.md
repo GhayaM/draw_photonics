@@ -14,3 +14,5 @@ maximizing the power in one port has the same optimal fom than distributing it e
 - Select the in phase mode as the output mode (or outphase, but only one).
 - Optimize
 
+## Notes
+First note.
